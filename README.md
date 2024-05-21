@@ -23,34 +23,43 @@ Let's play more, explore more and earn more!!! $MOLE
 ### 2024-Q2 Launch phase
 
 Develop and launch Whack-a-mole game / bot / website
+
 Gain 100K users on Telegram
+
 Launch PLAY-TO-EARN/AIRDROP model
 
 ### 2024-Q3 Token phase
 
 Give away/Airdrop $Mole token to early adoptors
+
 List $MOLE token on cryptocurrency exchanges/DEX
 
 ### 2024-Q4 Enhance phase
 
 Enable Staking/NFT
+
 Implement game platform with token airdrop and staking
 
 ### 2025-Q1 Innovation phase
 
 Onboard more funny super-casual games
+
 Enabled AI-powered game role to interact with human
 
 ## Team
 
 Logan: CEO, ex Alibaba/Ant Group software developer. 10+ years experience on developing products on ecommerce, fintech. Cat lover.
+
 David: CMO，ex Tencent Games  marketing manager. 10+ years experience on marketing work. A dreamer
+
 Kyle: Devloper, ex ByteDance front end developer. 10+ years experience on game developing. Web3 Advocates.
 
 
 ## Contact
 
 Telegram: moleverse
+
 Twitter: https://x.com/moleverse_ton
+
 Dorahack: https://dorahacks.io/buidl/12796
 
