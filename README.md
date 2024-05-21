@@ -57,7 +57,7 @@ Kyle: Devloper, ex ByteDance front end developer. 10+ years experience on game d
 
 ## Contact
 
-Telegram: moleverse
+Telegram: https://t.me/moleverse
 
 Twitter: https://x.com/moleverse_ton
 
